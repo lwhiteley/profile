@@ -19,7 +19,7 @@ class AppComponent extends React.Component {
           <div className="content">
             <div className="notice">
               <div>
-                  <img className="img-tile" src="http://i.imgur.com/ELo6oFh.jpg" />
+                  <img className="img-tile" src="https://i.imgur.com/ELo6oFh.jpg" />
               </div>
               <div className="profiles">
                 <a className="icon-link" target="_blank" href="https://github.com/lwhiteley">
