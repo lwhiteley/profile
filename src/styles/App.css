@@ -68,6 +68,10 @@ body {
   margin-top:20px;
 }
 
+.icon-link{
+  cursor: pointer;
+}
+
 .profiles .icon-link{
   padding: 0 15px;
 }
@@ -78,4 +82,28 @@ body {
   color:white;
   text-decoration:none;
   outline:0;
+}
+
+.arrow {
+    position: absolute;
+    right: 0;
+    bottom: 25px;
+    left: 0;
+    max-width: 100px;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+    opacity: .6;
+    z-index: 3;
+
+}
+
+.arrow .icon{
+  color:#fff;
+  font-size:70px;
+}
+
+.body{
+  min-height:800px;
+  padding:20px 15px;
 }

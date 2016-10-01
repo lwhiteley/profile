@@ -39,11 +39,11 @@ var FaNpm = function (_React$Component) {
                     React.createElement(
                         'g',
                         { xmlns: 'http://www.w3.org/2000/svg', width: '240', height: '140', viewBox: '0 0 240 140', id: 'layer1', transform: 'translate(-109.57142,-485.2193)' },
-                        React.createElement('path', { style: {'fill':'transparent', 'fill-opacity':1}, d: 'm 174.4429,576.2193 0,-13.01931 -64.87148,0 1.9e-4,-77.98069 233.35644,0 -1.9e-4,77.98069 -116.67804,0 0,13.01931 z', id: 'path4951' }),
-                        React.createElement('path', { style: {'fill':'#ffffff', 'fill-opacity':1}, d: 'm 213.63597,563.19999 0,-13.1094 25.67822,0 0,-51.76189 -51.71684,0 0,64.87129 z', id: 'path4949' }),
-                        React.createElement('path', { style: {'fill':'#c0c0c0', 'fill-opacity':1}, d: 'm 213.63597,511.34801 12.61385,0 0,25.67822 -12.61385,0 z', id: 'path4947' }),
-                        React.createElement('path', { style: {'fill':'#ffffff', 'fill-opacity':1}, d: 'm 148.31419,550.09059 0,-38.74258 13.06435,0 0,38.74258 13.06436,0 0,-51.76189 -51.71226,0 0,51.76189 z', id: 'path4945' }),
-                        React.createElement('path', { style: {'fill':'#ffffff', 'fill-opacity':1}, d: 'm 278.05676,550.09059 0,-38.74258 13.06435,0 0,38.74258 13.06436,0 0,-38.74258 13.06435,0 0,38.74258 13.06437,0 0,-51.76189 -77.93404,0 0,51.76189 z', id: 'path2998' })
+                        React.createElement('path', { style: {'fill':'transparent', 'fillOpacity':1}, d: 'm 174.4429,576.2193 0,-13.01931 -64.87148,0 1.9e-4,-77.98069 233.35644,0 -1.9e-4,77.98069 -116.67804,0 0,13.01931 z', id: 'path4951' }),
+                        React.createElement('path', { style: {'fill':'#ffffff', 'fillOpacity':1}, d: 'm 213.63597,563.19999 0,-13.1094 25.67822,0 0,-51.76189 -51.71684,0 0,64.87129 z', id: 'path4949' }),
+                        React.createElement('path', { style: {'fill':'#c0c0c0', 'fillOpacity':1}, d: 'm 213.63597,511.34801 12.61385,0 0,25.67822 -12.61385,0 z', id: 'path4947' }),
+                        React.createElement('path', { style: {'fill':'#ffffff', 'fillOpacity':1}, d: 'm 148.31419,550.09059 0,-38.74258 13.06435,0 0,38.74258 13.06436,0 0,-51.76189 -51.71226,0 0,51.76189 z', id: 'path4945' }),
+                        React.createElement('path', { style: {'fill':'#ffffff', 'fillOpacity':1}, d: 'm 278.05676,550.09059 0,-38.74258 13.06435,0 0,38.74258 13.06436,0 0,-38.74258 13.06435,0 0,38.74258 13.06437,0 0,-51.76189 -77.93404,0 0,51.76189 z', id: 'path2998' })
                     )
                 )
             );
