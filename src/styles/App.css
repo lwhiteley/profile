@@ -84,6 +84,13 @@ body {
   outline:0;
 }
 
+a.icon-link.cv-link {
+    font-weight: bold;
+    font-size: 34px;
+    position: relative;
+    top: 5px;
+}
+
 .arrow {
     position: absolute;
     right: 0;
@@ -104,6 +111,11 @@ body {
 }
 
 .body{
-  min-height:800px;
+  /*min-height:800px;*/
   padding:20px 15px;
+}
+
+.body-content{
+  margin:0 auto;
+  width: 80%;
 }

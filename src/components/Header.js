@@ -30,6 +30,11 @@ class Header extends React.Component {
                 <a className="icon-link" target="_blank" href="https://npmjs.com/~lwhiteley">
                   <NpmIcon className="icon npm-icon" />
                 </a>
+
+                <a className="icon-link cv-link" target="_blank" href="layton.whiteley.resume.pdf">
+                  CV
+                </a>
+
               </div>
             </div>
           </div>
