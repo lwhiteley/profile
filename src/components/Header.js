@@ -14,9 +14,13 @@ class Header extends React.Component {
         <header className="header" >
           <div className="content">
             <div className="notice">
+
               <div>
                   <img className="img-tile" src="https://i.imgur.com/ELo6oFh.jpg" />
               </div>
+              <h1>
+                Layton Whiteley
+              </h1>
               <div className="profiles">
                 <a className="icon-link" target="_blank" href="https://github.com/lwhiteley">
                   <FaGithub className="icon" />
